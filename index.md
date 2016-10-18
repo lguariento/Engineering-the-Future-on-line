@@ -1,3 +1,8 @@
+---
+layout: post
+title: The future book
+---
+
 # Articles #
 
 [Can we engineer the future?][art1]  
