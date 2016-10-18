@@ -19,9 +19,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Article nine.][art9]  
 [Article ten.][art10]  
 
-[art1]: 01-Can we engineer the future?.html
-[art2]: 02-The Philosophical Engineer.html
-[art3]: 03-Openness – Privacy.html
+[art1]: 01.html
+[art2]: 02.html
+[art3]: 03.html
 [art4]: article4.html
 [art5]: article5.html
 [art6]: article6.html
