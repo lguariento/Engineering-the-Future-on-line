@@ -2,7 +2,6 @@
 layout: post
 title: Can we Engineer the Future?
 ---
-================
 
 ## Can we Engineer the Future?
 *Jon Rogers*
