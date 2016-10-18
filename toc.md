@@ -27,7 +27,6 @@ title: The future book
 [art9]: 09-How to Build Peace/ Be Honest.html
 [art10]: 10-Women who code for social change.html
 
-<div>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -36,4 +35,3 @@ title: The future book
     </li>
   {% endfor %}
 </ul>
-</div>
