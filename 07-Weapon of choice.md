@@ -1,3 +1,8 @@
+---
+layout: post
+title: Weapon of choice
+---
+
 ## Weapon of choice
 _Daniel Escamilla_
 _Centro de Cultura Digital, Mexico City_
