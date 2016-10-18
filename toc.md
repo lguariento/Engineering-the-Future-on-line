@@ -31,7 +31,6 @@ title: The future book
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <p>hello</p>
     </li>
   {% endfor %}
 </ul>
