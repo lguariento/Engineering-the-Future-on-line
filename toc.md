@@ -26,3 +26,11 @@ title: The future book
 [art8]: 08-The Good Home.html
 [art9]: 09-How to Build Peace/ Be Honest.html
 [art10]: 10-Women who code for social change.html
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
