@@ -28,5 +28,5 @@ title: The future book
 [BioNet](21.html)
 [Prosthetic Envy](22.html)
 [Shoreditch, 2012](23.html)
-[GyroGlove][24.html]
+[GyroGlove](24.html)
 [Silk Leaf](25.html)
